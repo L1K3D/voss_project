@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96250917-3963-450C-99F1-286F0D3DF94D}|c_sharp_models.csproj|c:\\users\\heitor\\documents\\isf\\projeto_voss\\software\\c_sharp_models\\dao\u0027s\\linhasdemontagemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96250917-3963-450C-99F1-286F0D3DF94D}|c_sharp_models.csproj|solutionrelative:dao\u0027s\\linhasdemontagemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96250917-3963-450C-99F1-286F0D3DF94D}|c_sharp_models.csproj|c:\\users\\heitor\\documents\\isf\\projeto_voss\\software\\c_sharp_models\\dao\u0027s\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96250917-3963-450C-99F1-286F0D3DF94D}|c_sharp_models.csproj|solutionrelative:dao\u0027s\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96250917-3963-450C-99F1-286F0D3DF94D}|c_sharp_models.csproj|c:\\users\\heitor\\documents\\isf\\projeto_voss\\software\\c_sharp_models\\models\\usuarioconexaobancodedadosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96250917-3963-450C-99F1-286F0D3DF94D}|c_sharp_models.csproj|solutionrelative:models\\usuarioconexaobancodedadosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96250917-3963-450C-99F1-286F0D3DF94D}|c_sharp_models.csproj|C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\models\\usuariosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96250917-3963-450C-99F1-286F0D3DF94D}|c_sharp_models.csproj|solutionrelative:models\\usuariosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96250917-3963-450C-99F1-286F0D3DF94D}|c_sharp_models.csproj|C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\models\\linhasdemontagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96250917-3963-450C-99F1-286F0D3DF94D}|c_sharp_models.csproj|solutionrelative:models\\linhasdemontagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96250917-3963-450C-99F1-286F0D3DF94D}|c_sharp_models.csproj|C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96250917-3963-450C-99F1-286F0D3DF94D}|c_sharp_models.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinhasDeMontagemDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\DAO\u0027s\\LinhasDeMontagemDAO.cs",
+              "RelativeDocumentMoniker": "DAO\u0027s\\LinhasDeMontagemDAO.cs",
+              "ToolTip": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\DAO\u0027s\\LinhasDeMontagemDAO.cs",
+              "RelativeToolTip": "DAO\u0027s\\LinhasDeMontagemDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T04:46:00.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexaoDB.cs",
+              "DocumentMoniker": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\DAO\u0027s\\ConexaoDB.cs",
+              "RelativeDocumentMoniker": "DAO\u0027s\\ConexaoDB.cs",
+              "ToolTip": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\DAO\u0027s\\ConexaoDB.cs",
+              "RelativeToolTip": "DAO\u0027s\\ConexaoDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:35:56.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioConexaoBancoDeDadosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\Models\\UsuarioConexaoBancoDeDadosViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\UsuarioConexaoBancoDeDadosViewModel.cs",
+              "ToolTip": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\Models\\UsuarioConexaoBancoDeDadosViewModel.cs",
+              "RelativeToolTip": "Models\\UsuarioConexaoBancoDeDadosViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:41:19.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\Models\\UsuariosViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\UsuariosViewModel.cs",
+              "ToolTip": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\Models\\UsuariosViewModel.cs",
+              "RelativeToolTip": "Models\\UsuariosViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:34:02.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinhasDeMontagemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\Models\\LinhasDeMontagemViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LinhasDeMontagemViewModel.cs",
+              "ToolTip": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\Models\\LinhasDeMontagemViewModel.cs",
+              "RelativeToolTip": "Models\\LinhasDeMontagemViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:26:51.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Heitor\\Documents\\isf\\projeto_voss\\software\\c_sharp_models\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:22:33.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
