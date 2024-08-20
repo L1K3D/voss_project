@@ -1,7 +1,5 @@
 from datetime import datetime
 
-print("Ai Papai!")
-
 class TabelaLinhaMontagem:
     def __init__(
         self,
