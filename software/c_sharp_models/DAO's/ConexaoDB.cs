@@ -12,7 +12,6 @@ namespace c_sharp_models.DAO_s
     public class ConexaoDB
     {
 
-
         public SqlConnection Conectar(UsuarioConexaoBancoDeDadosViewModel login)
         {
         
